@@ -1,0 +1,17 @@
+Create a website named “My Student Info Dashboard” using HTML. The website should include the following features:
+
+A heading with the title “My Student Info Dashboard.”
+
+Three clickable links on the page:
+
+About Me – Display your personal information such as name, class, age, etc.
+
+My Hobbies – Display a list of your hobbies using an ordered or unordered list.
+
+My Favourite Video – Embed your favorite YouTube video using a frame or iframe.
+
+When a link is clicked, the corresponding content should display without leaving the main page (using frames/iframes or navigation links).
+
+Use proper HTML formatting: headings (<h1>, <h2>), paragraphs (<p>), lists (<ul> or <ol>), and links (<a>).
+
+Ensure the website is fully functional and displays content correctly in the respective section when a link is clicked.
